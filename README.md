@@ -1,5 +1,10 @@
 # Billing Automation using Google Sheets / Google Apps Script #
 ## Generate Billing for your Legal Letters in an Easy Manner. ##
+
+## HOW TO USE ## 
+
+[![Billing Automation](https://github.com/user-attachments/assets/5702db3e-1b19-4cc6-8a7d-e881f52859ad)](https://youtu.be/Iz9R4KlVsAA)
+
 ### key features ##
 1. Generate Bills / Invoice in Bulk. Perfect for Legal Documents.
 2. Multiple Services Combined with Expenses.
@@ -9,7 +14,7 @@
 7. Option to Clear all Sheets and to Delete Generated Invoice Files in bulk.
 8. Correct your individual invoice and generate Invoice for specific customer as well.
 9. Sends Emails to customer directly or to yourself.
-   
+
 ![billing Automation](https://github.com/user-attachments/assets/6295c0d8-0bc9-4930-93c8-ccac8b089d87)
 
 ### Overview : Generate Invoice for Active Client ###
@@ -26,5 +31,3 @@
 
 ### Google Sheets Sample Published ### 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSxUi1KfkWOINQlqagJX1ZFZy5FMFmMwxItVXuuHHZw8TpyvhFUxNY8KrDnd9yHMJ1r2Zjr-GWP1E8b/pubhtml
-
-Youtube How to use Link
