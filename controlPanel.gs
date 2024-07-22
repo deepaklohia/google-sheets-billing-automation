@@ -12,5 +12,7 @@ const INVOICE_TEMPLATE_SHEET_NAME = 'INVOICE_Template';
 
 //************************ */
 
+//EMAIL_OVERRIDE >> if True then email will be sent to Email Below
+//EMAIL_OVERRIDE >> if false EMAIL will be sent to CUSTOMER EMAIL ADDRESS
 const EMAIL_OVERRIDE = true;
 const EMAIL_ADDRESS_OVERRIDE = 'yourFaltuEmail@gmail.com';
