@@ -8,7 +8,7 @@
 6. Bill Generation Indicator (Green) for customers Processed.
 7. Option to Clear all Sheets and to Delete Generated Invoice Files in bulk.
 8. Correct your individual invoice and generate Invoice for specific customer as well.
-9. Sends Emails Either to customer directoly or to yourself.
+9. Sends Emails to customer directly or to yourself.
    
 ![billing Automation](https://github.com/user-attachments/assets/6295c0d8-0bc9-4930-93c8-ccac8b089d87)
 
@@ -23,3 +23,8 @@
 
 ### Email Sample Generated ###
 ![Screenshot 2024-07-23 at 12 59 41 AM](https://github.com/user-attachments/assets/34762dfd-2056-4b3e-8f12-06058e2888a0)
+
+### Google Sheets Sample Published ### 
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSxUi1KfkWOINQlqagJX1ZFZy5FMFmMwxItVXuuHHZw8TpyvhFUxNY8KrDnd9yHMJ1r2Zjr-GWP1E8b/pubhtml
+
+Youtube How to use Link
